@@ -22,7 +22,7 @@ El embarazo adolescente representa un desafío significativo de salud pública e
 - **SQL:** CTEs, funciones de ventana, funciones de agregación, sentencias CASE, joins
 - **Power BI:** Dax, columnas calculadas, medidas, visualización de datos
 
-**Estructura del Dashboard:**
+## Estructura del Dashboard:
 
 1. **Composición Nacional:** Muestra cómo se compone el fenómeno
 2. **Vulnerabilidad <15:** Focalización en grupo de mayor riesgo
