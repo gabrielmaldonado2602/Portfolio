@@ -46,14 +46,14 @@ El embarazo adolescente representa un desafío significativo de salud pública e
    
 6. Aumento del 50.7% en partos adolescentes en la provincia de Pedernales entre 2020-2024, haciendola a esta la provincia que mayor incremento experimentó.
    
-7. La provincia de Hermanas Mirabales presenta la tasa más alta de cesáreas para ambos grupos etarios: 65.62% para jóvenes de 15 a 19 años y 86.36% para menores de 15 años.
+7. La provincia de Hermanas Mirabal presenta la tasa más alta de cesáreas para ambos grupos etarios: 65.62% para jóvenes de 15 a 19 años y 86.36% para menores de 15 años.
 
 
 ## Recomendaciones:
 
 - Implementar programas intensivos de prevención en Duarte, San José de Ocoa y Pedernales, con énfasis en educación sexual. 
 
-- Desarrollar e implementar guías clínicas para cesáreas en adolescentes, con enfoque en provincias con tasas extremas como Hermanas Mirabales.
+- Desarrollar e implementar guías clínicas para cesáreas en adolescentes, con enfoque en provincias con tasas extremas como Hermanas Mirabal.
 
 - Documentar e intentar replicar estrategias de las 11 provincias con reducción de partos consistente
 
