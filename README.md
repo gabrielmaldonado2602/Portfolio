@@ -60,7 +60,7 @@ El embarazo adolescente representa un desafío significativo de salud pública e
 
 - Desarrollar e implementar guías clínicas para cesáreas en adolescentes, con enfoque en provincias con tasas extremas como Hermanas Mirabal.
 
-- Documentar e intentar replicar estrategias de las 11 provincias con reducción de partos consistente
+- Documentar e intentar replicar estrategias de las 11 provincias con reducción de partos consistente.
 
 ## Fuente: 
 
