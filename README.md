@@ -39,7 +39,7 @@ El embarazo adolescente representa un desafío significativo de salud pública e
 
 **El análisis revela algunos hallazgos importantes:**
 
-1. Entre 2020-2025 se registró un total de 123,249 partos adolescentes
+1. Entre 2020-2025 se registró un total de aproximadamente 123,249 partos adolescentes.
 
 2. Reducción nacional de 8,001 casos entre 2020-2024, pero con progreso desigual entre provincias.
    
@@ -49,7 +49,7 @@ El embarazo adolescente representa un desafío significativo de salud pública e
 
 5. Desigualdad territorial extrema en tasas de cesáreas: diferencia de hasta 68.86 puntos porcentuales entre provincias para menores de 15 años.
    
-6. Aumento del 50.7% en partos adolescentes en la provincia de Pedernales entre 2020-2024, haciendola a esta la provincia que mayor incremento experimentó.
+6. Aumento del 50.7% en partos adolescentes en la provincia de Pedernales entre 2020-2024, convirtiéndola en la provincia que mayor incremento experimentó.
    
 7. La provincia de Hermanas Mirabal presenta la tasa más alta de cesáreas para ambos grupos etarios: 65.62% para jóvenes de 15 a 19 años y 86.36% para menores de 15 años.
 
@@ -64,5 +64,6 @@ El embarazo adolescente representa un desafío significativo de salud pública e
 
 ## Fuente: 
 
--  Datos descargados de la página del Ministerio de Salud Pública: https://www.msp.gob.do/web/Transparencia/estadisticas-institucionales-c/#470-produccion-de-salud
+Datos descargados de la página del Ministerio de Salud Pública: https://www.msp.gob.do/web/Transparencia/estadisticas-institucionales-c/#470-produccion-de-salud
 
+- El análisis se basa en registros de la mayoría de los hospitales del país, no en la totalidad del sistema.
